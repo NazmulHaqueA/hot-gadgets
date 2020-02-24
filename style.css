@@ -84,3 +84,25 @@ body{
     font-size: 20px;
     margin-bottom: 15px;
 }
+
+.card-beauty{
+    margin-bottom: 30px;
+}
+
+.cat-bar{
+    height: 9px;
+    background-image: linear-gradient(to right, #ff9c35, #ffa92e, #ffb527, #ffc31f, #ffd019);
+    width: 10%;
+    margin-top: 10px;
+    border-radius: 10px;
+    
+}
+
+
+
+
+
+
+
+
+
