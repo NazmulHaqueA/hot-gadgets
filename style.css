@@ -74,6 +74,11 @@ body{
     padding: 5% 2% 3% 2%;
 }
 
+.card:hover{
+    border: 1px solid #ff9c35;
+    box-shadow: 3px 3px 10px -2px rgba(112,112,112,0.25);
+}
+
 .card-text{
     color: dimgray;
     margin-bottom: 40px;
@@ -89,14 +94,23 @@ body{
     margin-bottom: 30px;
 }
 
-.cat-bar{
+.horizontal-bar{
     height: 9px;
     background-image: linear-gradient(to right, #ff9c35, #ffa92e, #ffb527, #ffc31f, #ffd019);
     width: 10%;
     margin-top: 10px;
-    border-radius: 10px;
-    
+    border-radius: 10px;   
 }
+
+.team-members:hover{
+    border: 1px solid #ff9c35;
+    box-shadow: 3px 3px 10px -2px rgba(112,112,112,0.25);
+}
+
+.team-members h3{
+    font-size: 20px;
+}
+
 
 
 
